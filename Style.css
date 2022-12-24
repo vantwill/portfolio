@@ -145,7 +145,7 @@ display: none;
 }
 /* About */
 #about-me,#what-i-do,#works,#contact-me,#blogs{
-    padding: 3rem 0;
+    padding: 7rem 0;
 }
 .aboutImage{
     height: 600px;
