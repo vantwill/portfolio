@@ -117,7 +117,7 @@ nav{
     background-color: var(--sub-main);
 }
 .img-fluid{
-    width: 100%;
+    width: 70%;
     object-fit: contain;
 }
 .hero-small{
